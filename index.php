@@ -13,9 +13,8 @@
         <div id="wrapper">
         <h2>Overzicht PHP periode 3</h2>
         <ul>    
-            <li><a href="opdracht001/opdracht001.php">Opdracht001</a></li>
-            <li><a href="opdracht002/opdracht002.php">Opdracht002</a></li>
-            <li><a href="opdracht002/opdracht003.php">Opdracht003</a></li>
+            <li><a href="hoofdstuk1/">Hoofdstuk 1</a></li>
+            <li><a href="portfolio">Portfolio</a></li>
         </ul>    
         </div>
     </body>
